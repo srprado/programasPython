@@ -34,6 +34,3 @@ x = 10
 x_str = str(x)
 print(type(x))
 print(type(x_str))
-
-
-
