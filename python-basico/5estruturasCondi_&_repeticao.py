@@ -61,4 +61,3 @@ saque = 300000
 #status é uma string, seu valor é 'Sucesso' ou 'Falha'
 status = "Sucesso" if saldo >= saque else "Falha"
 print(f"{status} ao realizar o saque!")
-
